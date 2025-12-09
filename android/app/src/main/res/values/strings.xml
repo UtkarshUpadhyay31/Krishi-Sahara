@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Krishi Sahara</string>
+    <string name="title_activity_main">Krishi Sahara</string>
+    <string name="package_name">com.krishisahara.app</string>
+    <string name="custom_url_scheme">com.krishisahara.app</string>
+</resources>
