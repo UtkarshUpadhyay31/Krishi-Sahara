@@ -24,3 +24,12 @@ yarn-error.log*
 # Backend
 backend/node_modules
 backend/.env
+
+
+build-mobile.sh
+capacitor.config.js
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js
+accept-licenses.sh
