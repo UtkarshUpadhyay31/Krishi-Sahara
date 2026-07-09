@@ -311,11 +311,6 @@ This project is developed for Smart India Hackathon 2025.
 
 ## 🤝 Contributing
 This is a hackathon project. For queries, contact Team Enactus.
-
-## 📧 Support
-Email: `krishisahara22@gmail.com`  
-WhatsApp:+91 9369509602
-
 ---
 Built with ❤️ for Indian Farmers | कृषि सहारा
 
